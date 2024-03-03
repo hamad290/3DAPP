@@ -1,0 +1,82 @@
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+header {
+    background-color: #f8f9fa;
+    padding: 20px;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #343a40; /* Dark background color */
+    color: #ffffff; /* Light text color */
+    text-align: center;
+    padding: 20px 0; /* Adjust padding as needed */
+}
+/* Navigation styles */
+.navbar-brand {
+    font-weight: bold;
+}
+
+.navbar-nav .nav-link {
+    color: #007bff;
+    margin: 0 10px;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #0056b3;
+}
+.logo {
+    font-family: "Coca-Cola Font", Arial, sans-serif; /* Use Coca-Cola logo font or similar */
+    font-size: 24px; /* Adjust font size as needed */
+    color: red; /* Coca-Cola red color */
+    /* Add any additional styling to mimic the Coca-Cola logo */
+}
+/* Contact page styles */
+.container {
+    margin-top: 20px;
+}
+
+.container h1 {
+    margin-bottom: 20px;
+}
+
+.container p {
+    margin-bottom: 10px;
+}
+
+.container h2 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.container ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.container ul li {
+    margin-bottom: 5px;
+}
+
+/* Social media icons */
+.container ul li::before {
+    content: "";
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-image: url('social-icons.png'); /* Replace 'social-icons.png' with your actual image file */
+    background-size: cover;
+    margin-right: 5px;
+}
