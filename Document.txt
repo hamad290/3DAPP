@@ -1,0 +1,24 @@
+Navigation:
+
+The navigation bar at the top of the page allows you to navigate between different sections of the app.
+Click on the "Home" link to go to the homepage.
+Use the "About" link to access information about Coca-Cola brands.
+Click on the "Contact" link to find contact information for Coca-Cola.
+Viewing 3D Models:
+
+On the homepage, you will see a 3D model of a Coca-Cola product.
+Use your mouse or trackpad to rotate the model and view it from different angles.
+You can zoom in and out using the scroll wheel on your mouse or by pinching on a touchscreen device.
+Interacting with 3D Models:
+
+The 3D model may have interactive elements such as buttons or hotspots.
+Click on these elements to trigger animations, view additional information, or navigate to other parts of the app.
+Additional Features:
+
+Some pages may contain additional media elements such as images, videos, or audio files.
+These elements provide further information about Coca-Cola products, promotions, or events.
+Simply click on the media elements to play or view them.
+Accessibility:
+
+The app is designed to be accessible on different devices, including desktop computers, laptops, tablets, and smartphones.
+It is optimized for both desktop and mobile browsers, ensuring a seamless experience across all devices.
